@@ -1,5 +1,3 @@
-# project-root-for-WovV
-
 # WordPress on AWS ECS with S3 Integration
 
 ## Prerequisites
