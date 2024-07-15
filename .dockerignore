@@ -1,0 +1,9 @@
+**/.git
+**/node_modules
+**/tmp
+**/logs
+**/*.log
+**/*.tmp
+**/Dockerfile
+**/entrypoint.sh
+**/terraform/
